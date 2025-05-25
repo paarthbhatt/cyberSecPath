@@ -1,5 +1,7 @@
 Cyber security careers are becoming more in demand and offer high salaries. There are many different jobs within the security industry, from offensive pentesting (hacking machines and reporting on vulnerabilities) to defensive security (defending against and investigating cyberattacks).
 
+![alt text](images.png)
+
 Why get a career in cyber:
 
 High Pay - jobs in security have high starting salaries
@@ -9,6 +11,8 @@ This room helps you break into cyber security by providing information about var
 
 Task 2
 Security Analyst
+
+![alt text](images-1.png)
 
 Responsible for maintaining the security of an organisation's data
 
@@ -23,6 +27,8 @@ Develop security plans, incorporating research on new attack tools and trends, a
 Task 3
 Security Engineer
 
+![alt text](images-2.png)
+
 Design, monitor and maintain security controls, networks, and systems to help prevent cyberattacks
 
 Security engineers develop and implement security solutions using threats and vulnerability data - often sourced from members of the security workforce. Security engineers work across circumventing a breadth of attacks, including web application attacks, network threats, and evolving trends and tactics. The ultimate goal is to retain and adopt security measures to mitigate the risk of attack and data loss.
@@ -36,6 +42,8 @@ Learning Paths
 Task 4
 Incident Responder
 
+![alt text](images-3.png)
+
 Identifies and mitigates attacks whilst an attackers operations are still unfolding
 
 Incident responders respond productively and efficiently to security breaches. Responsibilities include creating plans, policies, and protocols for organisations to enact during and following incidents. This is often a highly pressurised position with assessments and responses required in real-time, as attacks are unfolding. Incident response metrics include MTTD, MTTA, and MTTR - the meantime to detect, acknowledge, and recover (from attacks.) The aim is to achieve a swift and effective response, retain financial standing and avoid negative breach implications. Ultimately, incident responders protect the company's data, reputation, and financial standing from cyber attacks.
@@ -47,6 +55,8 @@ Post-incident reporting and preparation for future attacks, considering learning
 
 Task 5
 Digital Forensics Examiner
+
+![alt text](images-4.png)
 
 Responsible for using digital forensics to investigate incidents and crimes
 
@@ -60,6 +70,8 @@ Document your findings and report on the case
 Task 6
 Malware Analyst
 
+![alt text](images-5.png)
+
 Analyses all types of malware to learn more about how they work and what they do
 
 A malware analyst's work involves analysing suspicious programs, discovering what they do and writing reports about their findings. A malware analyst is sometimes called a reverse-engineer as their core task revolves around converting compiled programs from machine language to readable code, usually in a low-level language. This work requires the malware analyst to have a strong programming background, especially in low-level languages such as assembly language and C language. The ultimate goal is to learn about all the activities that a malicious program carries out, find out how to detect it and report it.
@@ -72,6 +84,8 @@ Document and report all the findings
 Task 7
 Penetration Tester
 
+![alt text](images-6.png)
+
 Responsible for testing technology products for security loopholes
 
 You may see penetration testing referred to as pentesting and ethical hacking. A penetration tester's job role is to test the security of the systems and software within a company - this is achieved through attempts to uncover flaws and vulnerabilities through systemised hacking. Penetration testers exploit these vulnerabilities to evaluate the risk in each instance. The company can then take these insights to rectify issues to prevent a real-world cyberattack.
@@ -83,6 +97,8 @@ Evaluate and report on insights, recommending actions for attack prevention
 
 Task 8
 Red Teamer
+
+![alt text](images-7.png)
 
 Plays the role of an adversary, attacking an organisation and providing feedback from an enemies perspective
 
