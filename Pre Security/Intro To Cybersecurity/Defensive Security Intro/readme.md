@@ -6,9 +6,7 @@ Preventing intrusions from occurring
 Detecting intrusions when they occur and responding properly
 Blue teams are part of the defensive security landscape.
 
- 
-
-Some of the tasks that are related to defensive security include:
+## Some of the tasks that are related to defensive security include:
 
 ### User cyber security awareness: Training users about cyber security helps protect against attacks targeting their systems.
 ### Documenting and managing assets: We need to know the systems and devices we must manage and protect adequately.
@@ -28,13 +26,22 @@ In this task, we will cover two main topics related to defensive security:
 
 Security Operations Center (SOC), where we cover Threat Intelligence
 Digital Forensics and Incident Response (DFIR), where we also cover Malware Analysis
-Security Operations Center (SOC)
+
+
+## Security Operations Center (SOC)
 A Security Operations Center (SOC) is a team of cyber security professionals that monitors the network and its systems to detect malicious cyber security events. Some of the main areas of interest for a SOC are:
 
-Vulnerabilities: Whenever a system vulnerability (weakness) is discovered, it is essential to fix it by installing a proper update or patch. When a fix is unavailable, the necessary measures should be taken to prevent an attacker from exploiting it. Although remediating vulnerabilities is vital to a SOC, it is not necessarily assigned to them.
-Policy violations: A security policy is a set of rules required to protect the network and systems. For example, it might be a policy violation if users upload confidential company data to an online storage service.
-Unauthorized activity: Consider the case where a user’s login name and password are stolen, and the attacker uses them to log into the network. A SOC must detect and block such an event as soon as possible before further damage is done.
-Network intrusions: No matter how good your security is, there is always a chance for an intrusion. An intrusion can occur when a user clicks on a malicious link or when an attacker exploits a public server. Either way, when an intrusion occurs, we must detect it as soon as possible to prevent further damage.
+### Vulnerabilities: 
+Whenever a system vulnerability (weakness) is discovered, it is essential to fix it by installing a proper update or patch. When a fix is unavailable, the necessary measures should be taken to prevent an attacker from exploiting it. Although remediating vulnerabilities is vital to a SOC, it is not necessarily assigned to them.
+
+### Policy violations: 
+A security policy is a set of rules required to protect the network and systems. For example, it might be a policy violation if users upload confidential company data to an online storage service.
+
+### Unauthorized activity: 
+Consider the case where a user’s login name and password are stolen, and the attacker uses them to log into the network. A SOC must detect and block such an event as soon as possible before further damage is done.
+
+### Network intrusions: 
+No matter how good your security is, there is always a chance for an intrusion. An intrusion can occur when a user clicks on a malicious link or when an attacker exploits a public server. Either way, when an intrusion occurs, we must detect it as soon as possible to prevent further damage.
 Security operations cover various tasks to ensure protection; one such task is threat intelligence.
 
 ![alt text](image.png)
