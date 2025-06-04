@@ -75,6 +75,9 @@ Follow these steps to get started with the learning materials:
     *   Each subdirectory represents a specific topic or module.
     *   The educational content for each module is primarily found in its `readme.md` file. Start by opening and reading these files to begin learning.
 
+MORE CONTENT TBD
+
+
 ## Contributing
 
 We welcome contributions to enhance and expand the **Pre Security - Cybersecurity Learning Path**! Whether you've found a typo, have a suggestion for new content, or want to improve existing modules, your input is valuable.
