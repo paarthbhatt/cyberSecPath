@@ -20,43 +20,57 @@ This learning material is designed for:
 *   **Defensive Security Modules:** Details principles of cyber defense, including SOC, Threat Intelligence, DFIR, and Malware Analysis.
 *   **Offensive Security Fundamentals:** Introduces the basics of ethical hacking and the attacker perspective.
 *   **Network Essentials:** Explains fundamental networking concepts, including IP addressing, MAC addresses, and network protocols like ICMP.
+*   **Web Fundamentals:** Detailed breakdown of how the web works, including DNS, HTTP/S, and the building blocks of websites (HTML/JS).
 *   **Structured Learning:** Organized modules designed to build foundational knowledge systematically.
 
 ## Content Overview
 
 The learning path is structured to cover key areas in cybersecurity, helping to demystify complex topics and provide a clear understanding of the industry. The primary content is located within the `Pre Security` directory and includes:
 
-### 1. Introduction to Cybersecurity
+### [1. Introduction to Cybersecurity](./Pre%20Security/Intro%20To%20Cybersecurity)
 
-*   **Careers in Cyber:** Explores diverse career roles within the cybersecurity industry, including:
-    *   Security Analyst
-    *   Security Engineer
-    *   Incident Responder
-    *   Digital Forensics Examiner
-    *   Malware Analyst
-    *   Penetration Tester
-    *   Red Teamer
-    Details on responsibilities, why these careers are in demand, and the skills involved.
-*   **Defensive Security Introduction:** Covers the principles of protecting systems and networks from threats. Key topics include:
-    *   User cybersecurity awareness.
-    *   Asset management and documentation.
-    *   System updating and patching.
-    *   Preventative security devices (Firewalls, IPS).
-    *   Logging and monitoring.
-    *   Security Operations Centers (SOC).
-    *   Threat Intelligence.
-    *   Digital Forensics and Incident Response (DFIR).
-    *   Malware Analysis (including types like viruses, trojans, ransomware).
-*   **Offensive Security Introduction:** Introduces the mindset and techniques used to identify and exploit vulnerabilities, ultimately to improve security. Emphasizes thinking like an attacker to build better defenses.
+*   **[Careers in Cyber](./Pre%20Security/Intro%20To%20Cybersecurity/Careers%20in%20Cyber):** Explores diverse career roles within the cybersecurity industry.
+    *   **Roles:** Security Analyst, Engineer, Incident Responder, Pentester, Red Teamer, etc.
+*   **[Defensive Security Introduction](./Pre%20Security/Intro%20To%20Cybersecurity/Defensive%20Security%20Intro):** Principles of protecting systems.
+    *   **Blue Team:** SOC, Threat Intelligence, DFIR, Malware Analysis.
+    *   **Defense Mechanisms:** Asset management, Patching, Firewalls, Logging.
+*   **[Offensive Security Introduction](./Pre%20Security/Intro%20To%20Cybersecurity/Offensive%20Security%20Intro):** The attacker mindset.
+    *   **Red Team:** Ethical hacking and vulnerability exploitation.
 
-### 2. Network Fundamentals
+### [2. Network Fundamentals](./Pre%20Security/Network%20Fundamentals)
 
-*   **What is Networking?:** Explains the basic concepts of networks, how devices connect, and the ubiquity of networks in modern life.
-*   **The Internet:** Describes the Internet as a global network of networks, differentiating between private and public networks.
-*   **Identifying Devices on a Network:** Details how devices are identified, covering:
-    *   IP Addresses (IPv4 and IPv6, public vs. private).
-    *   MAC Addresses (structure and spoofing).
-*   **Ping (ICMP):** Introduces the `ping` utility and the ICMP protocol for testing network connectivity and performance.
+*   **[What is Networking](./Pre%20Security/Network%20Fundamentals/What%20is%20Networking):** The basics of networks, the Internet, and device identification.
+    *   **The Internet:** Private vs Public networks.
+    *   **Identification:** IP Addresses (IPv4/IPv6) and MAC Addresses.
+    *   **Ping (ICMP):** Testing connectivity.
+*   **[Intro to LAN](./Pre%20Security/Network%20Fundamentals/Intro%20To%20Lan):** Local Area Network concepts.
+    *   **Topologies:** Star, Bus, and Ring.
+    *   **Subnetting:** Splitting networks for efficiency and security.
+    *   **Protocols:** ARP (MAC to IP mapping) and DHCP (Auto IP assignment).
+*   **[OSI Model](./Pre%20Security/Network%20Fundamentals/OSI%20Model):** The 7-layer framework for networking.
+    *   **Layers 1-7:** Physical, Data Link, Network, Transport, Session, Presentation, Application.
+    *   **Encapsulation:** How data is wrapped as it travels down the layers.
+*   **[Packets & Frames](./Pre%20Security/Network%20Fundamentals/Packets%20&%20Frames):** Data units and transport protocols.
+    *   **TCP/IP:** Connection-based, reliable (Three-Way Handshake).
+    *   **UDP:** Connectionless, fast (Streaming/Gaming).
+    *   **Ports:** How applications communicate (Common ports like 80, 443).
+*   **[Extending your Network](./Pre%20Security/Network%20Fundamentals/Extending%20your%20Network):** Advanced connectivity and security.
+    *   **Port Forwarding:** Exposing local services to the internet.
+    *   **Firewalls:** Controlling traffic flow (Stateful vs Stateless).
+    *   **VPNs:** Secure tunnels over the internet.
+    *   **Routing & Switching:** Layer 2 vs Layer 3 switches and VLANs.
+
+### [3. How the Web Works](./Pre%20Security/How%20the%20Web%20Works)
+
+*   **[How Websites Work](./Pre%20Security/How%20the%20Web%20Works/How%20Websites%20Work):** Demystifies the components of a website.
+    *   **Components:** HTML, CSS, & JavaScript.
+    *   **Vulnerabilities:** Sensitive Data Exposure, HTML Injection.
+*   **[DNS in Detail](./Pre%20Security/How%20the%20Web%20Works/DNS%20in%20detail):** The phonebook of the internet.
+    *   **Hierarchy:** TLDs, Second-Level Domains, Subdomains.
+    *   **Records:** A, AAAA, CNAME, MX, TXT.
+*   **[HTTP in Detail](./Pre%20Security/How%20the%20Web%20Works/HTTP%20in%20Detail):** The protocol of the web.
+    *   **Core:** Requests, Responses, Methods (GET, POST, etc.), Status Codes.
+    *   **State:** Cookies and Headers.
 
 This structured path provides a clear, curated, and foundational set of modules, addressing the common challenge of where and how to begin learning cybersecurity.
 
@@ -75,7 +89,7 @@ Follow these steps to get started with the learning materials:
     *   Each subdirectory represents a specific topic or module.
     *   The educational content for each module is primarily found in its `readme.md` file. Start by opening and reading these files to begin learning.
 
-MORE CONTENT TBD
+
 
 
 ## Contributing
